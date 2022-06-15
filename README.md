@@ -4,4 +4,4 @@ In the js file i've used a for loop and the math built in function to generate a
 
 Screenshot of the page: ![PasswordGenerator](PswdGenerator.png)
 
-Link to deployed application: 
+Link to deployed application: https://mlmcdan1.github.io/Challenge3/
